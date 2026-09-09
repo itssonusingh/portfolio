@@ -1,2 +1,0 @@
-PCM and Air Interface
-PCM-air interface simulation showing the interface between the phase-change material and surrounding air.
