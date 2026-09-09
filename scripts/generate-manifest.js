@@ -33,7 +33,7 @@ const manifest = files.map(file => {
     title = lines.shift()?.trim() || title;
     description = lines.join('\n').trim();
   }
-  const category = /water/i.test(file) ? 'CFD WATER' : 'PCM / CFD';
+  const category = /water/i.test(file) ? 'CFD Model' : 'PCM / CFD';
   return { file, title, description, category };
 });
 
