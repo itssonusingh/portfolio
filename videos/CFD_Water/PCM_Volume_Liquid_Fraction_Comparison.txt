@@ -1,2 +1,0 @@
-PCM Volume Fraction & Liquid Fraction Comparison
-Comparison of PCM volume fraction and liquid fraction fields from the supplied phase-change simulation frames.
