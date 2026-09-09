@@ -1,2 +1,0 @@
-CFD Simulation - Water Flow 02
-CFD water-flow simulation screen recording.
