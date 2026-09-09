@@ -1,2 +1,0 @@
-Fin with Air Flow
-CFD simulation of air flow and heat transfer around a finned thermal system.
