@@ -1,2 +1,0 @@
-PCM Encapsulation: Solidification and Liquification
-Transient simulation of PCM solidification and liquification in an encapsulated system.

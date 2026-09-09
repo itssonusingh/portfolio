@@ -1,2 +1,0 @@
-Volume of Fluid (Air and Water)
-Volume of Fluid (VOF) simulation showing the interface and transient flow behaviour of air and water.
