@@ -1,0 +1,2 @@
+PCM Liquid Fraction - Transient Melting
+Transient PCM melting simulation showing liquid-fraction evolution.

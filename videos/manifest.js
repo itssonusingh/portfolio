@@ -1,0 +1,38 @@
+window.CFD_VIDEOS = [
+  {
+    "file": "CFD_Water/PCM_CFD_Simulation_01.mp4",
+    "title": "PCM Liquid Fraction - Transient Melting",
+    "description": "Transient PCM melting simulation showing liquid-fraction evolution.",
+    "category": "CFD WATER"
+  },
+  {
+    "file": "CFD_Water/PCM_CFD_Simulation_02.mp4",
+    "title": "PCM Volume Fraction - Melting & Solidification",
+    "description": "PCM volume-fraction simulation showing phase-change behaviour.",
+    "category": "CFD WATER"
+  },
+  {
+    "file": "CFD_Water/PCM_CFD_Simulation_03.mp4",
+    "title": "CFD Thermal Simulation",
+    "description": "Thermal CFD simulation and field evolution.",
+    "category": "CFD WATER"
+  },
+  {
+    "file": "CFD_Water/PCM_CFD_Simulation_04.mp4",
+    "title": "CFD Water / Thermal Flow Simulation",
+    "description": "CFD screen recording showing engineering flow and thermal simulation results.",
+    "category": "CFD WATER"
+  },
+  {
+    "file": "CFD_Water/PCM_Encapsulation_Solidification_Melting.mp4",
+    "title": "PCM Encapsulation: Melting & Solidification",
+    "description": "COMSOL Multiphysics simulation showing transient phase-change behaviour in an encapsulated PCM system.",
+    "category": "CFD WATER"
+  },
+  {
+    "file": "CFD_Water/PCM_Volume_Liquid_Fraction_Comparison.mp4",
+    "title": "PCM Volume Fraction & Liquid Fraction Comparison",
+    "description": "Comparison of PCM volume fraction and liquid fraction fields from the supplied phase-change simulation frames.",
+    "category": "CFD WATER"
+  }
+];
