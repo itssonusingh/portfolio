@@ -1,2 +1,0 @@
-PCM Enthalpy-Porosity + Air VOF
-Coupled PCM phase-change modelling using the enthalpy-porosity approach with air represented using the Volume of Fluid (VOF) method.
