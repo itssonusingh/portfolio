@@ -1,0 +1,2 @@
+PCM Encapsulation: Melting & Solidification
+COMSOL Multiphysics simulation showing transient phase-change behaviour in an encapsulated PCM system.
